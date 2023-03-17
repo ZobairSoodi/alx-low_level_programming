@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
+/**
  * main - Entry function
+ *
  * Return: 0
  */
 int main(void)
