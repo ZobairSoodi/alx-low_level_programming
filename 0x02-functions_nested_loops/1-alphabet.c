@@ -2,8 +2,8 @@
 
 /**
  * main - Entry function
- * Description: print all alphabets in lowercase
- * Return: 0.
+ * Description: It prints the alphabet in lowercase fallowed by a new line
+ * Return: nothing.
  */
 void print_alphabet(void)
 {
