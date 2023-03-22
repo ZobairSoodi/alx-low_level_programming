@@ -2,7 +2,7 @@
 
 /**
  * main - Entry function
- * Description - print all alphabets in lowercase
+ * Description: print all alphabets in lowercase
  * Return: 0.
  */
 void print_alphabet(void)
